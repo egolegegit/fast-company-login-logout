@@ -28,3 +28,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `yarn eject`
+
+![alt tag](https://github.com/egolegegit/fast-company-login-logout/blob/master/screenshort/SharedScreenshot-1.jpg')
