@@ -29,4 +29,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn eject`
 
-![alt tag](https://github.com/egolegegit/fast-company-login-logout/blob/master/screenshort/SharedScreenshot-1.jpg')
+![alt tag](![alt tag](https://github.com/egolegegit/fast-company-login-logout/blob/master/screenshort/SharedScreenshot-1.jpg')
